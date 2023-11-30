@@ -114,6 +114,8 @@ a:hover {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  border-radius: 2px;
+  width: 500px
 }
 
-.button1 {width: 500px;}
+ 
