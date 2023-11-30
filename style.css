@@ -114,7 +114,12 @@ a:hover {
   display: inline-block;
   font-size: 16px;
   border-radius: 12px;
-  width: 500px
+  width: 500px;
+}
+
+.button:hover {
+  background-color: black;
+  color: blue;
 }
 
  
