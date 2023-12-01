@@ -106,7 +106,7 @@ a:hover {
   }  
 
 .button {
-  background-color: #36454F; /* gray */
+  background-color: #708090; /* gray */
   color: #E5E4E2;
   border: none;
   padding: 10px 15px;
@@ -120,7 +120,7 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #708090;
+  background-color: #1b1e1d;
   color: #E5E4E2;
 }
 
