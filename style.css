@@ -26,7 +26,7 @@ img {
   position: relative;
   background-color: transparent; /* gray */
   color: white;
-  border: white;
+  border-color: white;
   padding: 10px 25px;
   text-align: center;
   text-decoration: none;
