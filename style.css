@@ -46,14 +46,14 @@ img {
   position: relative;
   background-color: #659DBD; 
   color: white;
-  border-color: white;
+  border-color: none;
   padding: 10px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
   border-radius: 10px;
-  width: 8000px;
+  width: 800px;
   cursor: pointer;
 }
 
