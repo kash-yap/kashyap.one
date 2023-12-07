@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap');
 
 body {
   /*background: color*/
   background-color: #1b1e1d;
   color: white;
-  font-family: 'Myriad', sans-serif;
+  font-family: 'Inconsolata';
   font-size: 20px;
   }
 
@@ -44,7 +44,7 @@ img {
 
 .button2 {
   position: relative;
-  background-color: #a569bd; 
+  background-color: transparent; 
   color: white;
   border-color: none;
   padding: 10px 25px;
@@ -53,7 +53,7 @@ img {
   display: inline-block;
   font-size: 20px;
   border-radius: 10px;
-  width: 600px;
+  width: 500px;
   cursor: pointer;
 }
 
