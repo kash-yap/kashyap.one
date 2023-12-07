@@ -64,7 +64,7 @@ img {
 
 .button3 {
   position: relative;
-  background-color:  #1b3c49; 
+  background-color:  #0e5a6d; 
   color: white;
   border-color: none;
   padding: 10px 25px;
@@ -73,7 +73,7 @@ img {
   display: inline-block;
   font-size: 20px;
   border-radius: 10px;
-  width: 500px;
+  width: 600px;
   cursor: pointer;
 }
 
@@ -93,7 +93,7 @@ img {
   display: inline-block;
   font-size: 20px;
   border-radius: 10px;
-  width: 500px;
+  width: 600px;
   cursor: pointer;
 }
 
