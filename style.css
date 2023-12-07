@@ -62,6 +62,45 @@ img {
   color: black;
 }
 
+.button3 {
+  position: relative;
+  background-color: #12416d; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.button3:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
+
+.button4 {
+  position: relative;
+  background-color:  #bd2d0f; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.button4:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
 
 .footer {
    font-family: 'Karla', sans-serif;
