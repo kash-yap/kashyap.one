@@ -24,6 +24,7 @@ img {
 
 .button {
   position: relative;
+  font-family: 'Inconsolata';
   background-color: transparent; 
   color: white;
   border-color: white;
@@ -44,6 +45,7 @@ img {
 
 .button2 {
   position: relative;
+  font-family: 'Inconsolata';
   background-color: transparent; 
   color: white;
   border-color: none;
@@ -64,6 +66,7 @@ img {
 
 .button3 {
   position: relative;
+  font-family: 'Inconsolata';
   background-color: #174e5b; 
   color: white;
   border-color: none;
@@ -84,6 +87,7 @@ img {
 
 .button4 {
   position: relative;
+  font-family: 'Inconsolata';
   background-color:  #bd2d0f; 
   color: white;
   border-color: none;
@@ -105,6 +109,7 @@ img {
 
 .button5 {
   position: relative;
+  font-family: 'Inconsolata';
   background-color: #0077b5; 
   color: white;
   border-color: none;
