@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
 
 body {
   /*background: color*/
   background-color: #1b1e1d;
   color: white;
-  font-family: 'Inconsolata';
+  font-family: 'Ubuntu';
   font-size: 20px;
   }
 
@@ -24,7 +24,7 @@ img {
 
 .button {
   position: relative;
-  font-family: 'Inconsolata';
+  font-family: 'Ubuntu';
   background-color: transparent; 
   color: white;
   border-color: white;
@@ -45,7 +45,7 @@ img {
 
 .button2 {
   position: relative;
-  font-family: 'Inconsolata';
+  font-family: 'Ubuntu';
   background-color: transparent; 
   color: white;
   border-color: none;
@@ -66,7 +66,7 @@ img {
 
 .button3 {
   position: relative;
-  font-family: 'Inconsolata';
+  font-family: 'Ubuntu';
   background-color: #174e5b; 
   color: white;
   border-color: none;
@@ -87,7 +87,7 @@ img {
 
 .button4 {
   position: relative;
-  font-family: 'Inconsolata';
+  font-family: 'Ubuntu';
   background-color:  #bd2d0f; 
   color: white;
   border-color: none;
@@ -109,7 +109,7 @@ img {
 
 .button5 {
   position: relative;
-  font-family: 'Inconsolata';
+  font-family: 'Ubuntu';
   background-color: #0077b5; 
   color: white;
   border-color: none;
@@ -130,7 +130,7 @@ img {
 
 
 .footer {
-   font-family: 'Inconsolata';
+   font-family: 'Ubuntu';
    bottom: 0;
    background-color: transparent;
    color: gray;
