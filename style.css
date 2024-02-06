@@ -132,7 +132,7 @@ img {
 .buttonbook {
   position: relative;
   font-family: 'Ubuntu';
-  background-color: #ff7f50; 
+  background-color: #ec5800; 
   color: white;
   border-color: none;
   padding: 10px 25px;
@@ -146,7 +146,7 @@ img {
 }
 
 .buttonbook:hover {
-  background-color: #ff8243;
+  background-color: #ff7e00;
   color: black;
 }
 
